@@ -10,9 +10,9 @@ The AIM model for the Habitat Problem is implemented in Python. The project incl
 
 #### Agent Classes
 
-- **Rover:** Represents the rover agent.
-- **Excavator:** Represents the excavator agent.
-- **Drone:** Represents the drone agent.
+- **Rover:** Represents the rover agent, and has the sensing equipment.
+- **Excavator:** Represents the excavator agent, and has the digging equipment.
+- **Drone:** Represents the drone agent, and has the communication infrastructure.
 
 #### Team Class
 
@@ -47,3 +47,8 @@ Additionally, various game modes (Decay, Volatile, Mixed) have been implemented 
 Rollouts based on the algorithm have been performed to assess the effectiveness of the model in achieving the objectives outlined in the paper.
 
 Feel free to explore the codebase and adapt it to your specific needs. For any questions or issues, please refer to the documentation or contact the project maintainers.
+
+# Contribution
+- [Aadarsh Ragunathan]()
+- [Bhumika Joshi]()
+- [Rishabh Khanna](https://github.com/RishKhanna/)
